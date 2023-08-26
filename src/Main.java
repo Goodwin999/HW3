@@ -175,10 +175,5 @@ public class Main {
         System.out.println("Разница между годовыми доходами до и после повышения составляет " + "resultK2 - resultK1 = " + resultK3 + " рублей " );
 
 
-
-
-
-
-
     }
 }
